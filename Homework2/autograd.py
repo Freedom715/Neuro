@@ -1,4 +1,3 @@
-# Ноутбук будет завтра. Не успеваю :(
 class Value:
 
 	""" stores a single scalar value and its gradient """
